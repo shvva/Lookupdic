@@ -1,0 +1,14 @@
+[
+    {
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "Look up dic",
+                "mnemonic": "z",
+                "id": "lookupdic",
+                "command": "lookupdic"
+            }
+        ]
+    }
+]
