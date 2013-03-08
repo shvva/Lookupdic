@@ -9,7 +9,11 @@ Please use Package Control to keep the package updated via Commuty Sublime Packa
 
 ### Usage
 
-To use this lookupdic, `^ ⌘ ]` (os x) or `ctrl alt ]` (Linux/Windows) is a key trigger, `Tools > Look up dic` is a menu item.
+To use this lookupdic, pleasse select a word or words that you look up, and then  
+`^ ⌘ ]` (os x) or `ctrl alt ]` (Linux/Windows) is a key trigger, `Tools > Look up dic` is a menu item.
+
+Only a word on the caret must be choosen if you would not select any word prior to your trigger action.
+
 
 ### License
 
