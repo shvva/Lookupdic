@@ -15,5 +15,5 @@ To use this lookupdic, `^ ⌘ ]` (os x) or `ctrl alt ]` (Linux/Windows) is a key
 
 **lookupdic**  
 Copyright 2013, shvva  
-Dual licensed under the MIT and GPL.
+Dual licensed under the GPL or MIT.
 
