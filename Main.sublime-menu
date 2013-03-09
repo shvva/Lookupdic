@@ -5,7 +5,7 @@
         [
             {
                 "caption": "Look up dic",
-                "mnemonic": "z",
+                "mnemonic": "l",
                 "id": "lookupdic",
                 "command": "lookupdic"
             }
