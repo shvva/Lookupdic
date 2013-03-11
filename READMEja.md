@@ -3,7 +3,7 @@ Lookupdic
 
 lookupdic は alc 英辞郎 on the web を利用した英和・和英辞書引きのための Sublime Text 2 用パッケージです。  
 
-詳細については Amazon kindle ストア `[Sublime Text リファレンスガイド] (http://www.amazon.co.jp/Sublime-Text-リファレンス-ebook/dp/B00BS25DOW/ref=sr_1_1?ie=UTF8&qid=1362999842&sr=8-1)`
+詳細については Amazon kindle ストア [Sublime Text リファレンスガイド] (http://www.amazon.co.jp/Sublime-Text-リファレンス-ebook/dp/B00BS25DOW/ref=sr_1_1?ie=UTF8&qid=1362999842&sr=8-1)
 も併せてご覧下さい。  
 
 ### インストール
