@@ -1,7 +1,7 @@
 Lookupdic
 =========
 
-The package for Sublime Text 2, that allows you to look up English/Japanese words by means of alc EIJIRO on the web.
+The package for Sublime Text 2/3, that allows you to look up English/Japanese words by means of alc EIJIRO on the web.
 
 ### Installing
 
